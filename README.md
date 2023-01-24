@@ -26,7 +26,7 @@ _Cyber Security Analyst based in India 🇮🇳_<br>
 ## 💻 Projects
 
 **[Sacramentum CTF](https://sacramentum.ncuindia.edu)**<br>
-&emsp; _Organiser_
+&emsp; _Organiser_<br>
 &emsp; _Developer_
 
 **[Cohesion CTF](https://ctftime.org/ctf/589/)**<br>
