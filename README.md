@@ -75,11 +75,11 @@ _Cyber Security Analyst based in India 🇮🇳_<br>
 **Bachelor of Technology** _in Computer Science Engineering with Specialization in Cyber Security_<br>
 &emsp; _[The NorthCap Univerity](https://www.ncuindia.edu/) - Gurgaon, Haryana, India (2018 - 2022)_
 
-**All India Senior School Certificate Examination (AISSCE)**  - _STEM_<br>
-&emsp; _[Salwan Public School _(CBSE)_](https://salwangurgaon.com) - Gurgaon, Haryana, India (2016 - 2018)_
+**All India Senior School Certificate Examination (AISSCE)**  - _CBSE_<br>
+&emsp; _[Salwan Public School](https://salwangurgaon.com) - Gurgaon, Haryana, India (2016 - 2018)_
 
-**All India Secondary School Certificate Examination (AISSC)**  - _STEM_<br>
-&emsp; _[Salwan Public School _(CBSE)_](https://salwangurgaon.com) - Gurgaon, Haryana, India (2014 - 2016)_
+**All India Secondary School Certificate Examination (AISSC)**  - _CBSE_<br>
+&emsp; _[Salwan Public School](https://salwangurgaon.com) - Gurgaon, Haryana, India (2014 - 2016)_
 
 ## 💬 Languages
 
