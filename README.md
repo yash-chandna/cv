@@ -39,16 +39,22 @@ _Cyber Security Analyst based in India 🇮🇳_ <br>
 
 **4th Position**
   - Global Ethical Hacking Leaderboard by EC-Council
+
 **3rd Position**
   - GirlScript CTF GirlScript Goa, Ponda chapter
+
 **5th Position**
   - NCU CTF
+
 **5th Position**
   - Innova DTU CTF
+
 **7th Position**
   - The CyberGrabs CTF
+
 **10th Position**
   - HACON CTF
+
 **Bug Bounty**
   - Multiple bugs reported on Govt. of India Websites
 
@@ -81,3 +87,5 @@ _Cyber Security Analyst based in India 🇮🇳_ <br>
 
 🇮🇳 **Hindi**:Native<br>
 🇺🇸 **English**: C1
+
+<br><br>
