@@ -65,6 +65,7 @@ _Cyber Security Analyst based in India 🇮🇳_ <br>
 
 **CCNA**
   - Cisco Networking Academy
+
 ## 👩🏼‍🎓 Education
 
 **Bachelor of Technology** _in Computer Science Engineering with Specialization in Cyber Security_<br>
