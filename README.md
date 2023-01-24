@@ -6,21 +6,21 @@ _Cyber Security Analyst based in India 🇮🇳_
 
 ## 🧑🏻‍💻 Working Experience
 
-**Analyst** @ KPMG _(July 2022 - Present)_
+**Analyst** @ KPMG _(July 2022 - Present)_<br>
 &emsp; _Part of Digital Trust - Cyber Defense and Incident Response team_
 
 
-**Trainee** @ KPMG _(Jan 2022 - July 2022)_ 
+**Trainee** @ KPMG _(Jan 2022 - July 2022)_ <br>
 &emsp;  _Part of Digital Trust - Cyber Defense and Incident Response team_
 
 
-**Intern in Web Application Security** @ PAC Security LLP _(June 2021 – July 2021)_
+**Intern in Web Application Security** @ PAC Security LLP _(June 2021 – July 2021)_<br>
  &emsp; _Worked and created Machines on TryHackMe and HTB to learn more about how a machine works and to find vulnerability in them to gain root access_
 
-**GPCSSI-2021** @ Gurugram Police _(June 2021 – July 2021)_
+**GPCSSI-2021** @ Gurugram Police _(June 2021 – July 2021)_<br>
 &emsp; _Worked as Interns at Gurugram Police Cyber Security Summer Internship 2021_
 
-**Intern in Web Pentesting** @ PAC Security LLP _(June 2021 – July 2021)_
+**Intern in Web Pentesting** @ PAC Security LLP _(June 2021 – July 2021)_<br>
 &emsp; _Learned the Basics of Web Pentesting and put it to use to find vulnerabilities in Web Applications to protect the Cyber Space.
 
 ## 💻 Projects
