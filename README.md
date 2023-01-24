@@ -7,8 +7,7 @@ _Cyber Security Analyst based in India 🇮🇳_ <br>
 ## 🧑🏻‍💻 Working Experience
 
 **Analyst** @ KPMG _(July 2022 - Present)_ <br>
-  - Part of Digital Trust - Cyber Defense and Incident Response team
-<br><br>
+  _Part of Digital Trust - Cyber Defense and Incident Response team_
 
 **Trainee** @ KPMG _(Jan 2022 - July 2022)_ <br>
   - Part of Digital Trust - Cyber Defense and Incident Response team
