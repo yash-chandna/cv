@@ -64,7 +64,7 @@ _Cyber Security Analyst based in India 🇮🇳_<br>
 **Certified Ethical Hacker - Practical**<br>
 &emsp; _EC Council_
 
-**Certified Ethical Hacker - Masters**<br>
+**Certified Ethical Hacker - Master**<br>
 &emsp; _EC Council_
 
 **CCNA**<br>
