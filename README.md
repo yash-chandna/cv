@@ -1,6 +1,6 @@
 # Yash Chandna
 
-_Cyber Security engineer based in India 🇮🇳_ <br>
+_Cyber Security Analyst based in India 🇮🇳_ <br>
 
 [Email](mailto:yashchandna@gmail.com) / / [LinkedIn](https://www.linkedin.com/in/yashchandna/) 
 
