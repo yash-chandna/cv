@@ -18,7 +18,7 @@ _Cyber Security Analyst based in India 🇮🇳_<br>
  &emsp; _Worked and created Machines on TryHackMe and HTB to learn more about how a machine works and to find vulnerability in them to gain root access_
 
 **GPCSSI-2021** @ Gurugram Police _(June 2021 – July 2021)_<br>
-&emsp; _Worked as Interns at Gurugram Police Cyber Security Summer Internship 2021_
+&emsp; _Worked as Intern at Gurugram Police Cyber Security Summer Internship 2021_
 
 **Intern in Web Pentesting** @ PAC Security LLP _(June 2021 – July 2021)_<br>
 &emsp; _Learned the Basics of Web Pentesting and put it to use to find vulnerabilities in Web Applications to protect the Cyber Space._
