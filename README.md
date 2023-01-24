@@ -1,90 +1,93 @@
+
 # Yash Chandna
 
-_Cyber Security Analyst based in India 🇮🇳_ <br>
-
+_Cyber Security Analyst based in India 🇮🇳_
 [Email](mailto:yashchandna@gmail.com) / / [LinkedIn](https://www.linkedin.com/in/yashchandna/) 
 
 ## 🧑🏻‍💻 Working Experience
 
-**Analyst** @ KPMG _(July 2022 - Present)_ <br>
-  _Part of Digital Trust - Cyber Defense and Incident Response team_
+**Analyst** @ KPMG _(July 2022 - Present)_
+&emsp; _Part of Digital Trust - Cyber Defense and Incident Response team_
 
-**Trainee** @ KPMG _(Jan 2022 - July 2022)_ <br>
-  - Part of Digital Trust - Cyber Defense and Incident Response team
-<br><br>
+
+**Trainee** @ KPMG _(Jan 2022 - July 2022)_ 
+&emsp;  _Part of Digital Trust - Cyber Defense and Incident Response team_
+
 
 **Intern in Web Application Security** @ PAC Security LLP _(June 2021 – July 2021)_
-  - Worked on Machines on TryHackMe and HTB to learn more about how a machine works and to find vulnerability in them to gain root access
+ &emsp; _Worked and created Machines on TryHackMe and HTB to learn more about how a machine works and to find vulnerability in them to gain root access_
 
 **GPCSSI-2021** @ Gurugram Police _(June 2021 – July 2021)_
-  - Worked as Interns at Gurugram Police Cyber Security Summer Internship 2021
+&emsp; _Worked as Interns at Gurugram Police Cyber Security Summer Internship 2021_
 
 **Intern in Web Pentesting** @ PAC Security LLP _(June 2021 – July 2021)_
-  - Learned the Basics of Web Pentesting and put it to use to find vulnerabilities in Web Applications to protect the Cyber Space.
+&emsp; _Learned the Basics of Web Pentesting and put it to use to find vulnerabilities in Web Applications to protect the Cyber Space.
 
 ## 💻 Projects
 
 **[Sacramentum CTF](https://sacramentum.ncuindia.edu)**
-  - Organiser
-  - Developer
+&emsp; _Organiser_
+&emsp; _Developer_
 
 **[Cohesion CTF](https://ctftime.org/ctf/589/)**
-  - Developer
+&emsp; _Developer_
 
-**Cyber Cell** @ The NorthCap University
-  - Worked in a team of six under the guidance of two Final Year Students where we conducted VAPT for the websites and network of The NorthCap University
+**Cyber Cell** _@ The NorthCap University_
+&emsp; _Worked in a team of six under the guidance of two Final Year Students where we conducted VAPT for the websites and network of The NorthCap University_
 
 ## 🏆 Awards
 
+**3rd Position**
+  &emsp; _GirlScript CTF GirlScript Goa, Ponda chapter_
+
 **4th Position**
-  - Global Ethical Hacking Leaderboard by EC-Council
+&emsp; _[Global Ethical Hacking Leaderboard by EC-Council]()_
 
 **3rd Position**
-  - GirlScript CTF GirlScript Goa, Ponda chapter
+  &emsp; _GirlScript CTF GirlScript Goa, Ponda chapter_
 
 **5th Position**
-  - NCU CTF
+&emsp; _NCU CTF_
+&emsp; _Innova DTU CTF_
 
-**5th Position**
-  - Innova DTU CTF
+
+
 
 **7th Position**
-  - The CyberGrabs CTF
+&emsp; _The CyberGrabs CTF_
 
 **10th Position**
-  - HACON CTF
+&emsp; _HACON CTF_
 
 **Bug Bounty**
-  - Multiple bugs reported on Govt. of India Websites
+&emsp; _Multiple bugs reported on Govt. of India Websites_
 
 ## 🎖️ Certifications
 
 **Certified Ethical Hacker - Theory**
-  - EC Council 
+&emsp; _EC Council_ 
 
 **Certified Ethical Hacker - Practical**
-  - EC Council
+&emsp; _EC Council_
 
 **Certified Ethical Hacker - Masters**
-  - EC Council
+&emsp; _EC Council_
 
 **CCNA**
-  - Cisco Networking Academy
+&emsp; _Cisco Networking Academy_
 
 ## 👩🏼‍🎓 Education
 
-**Bachelor of Technology** _in Computer Science Engineering with Specialization in Cyber Security_<br>
-[The NorthCap Univerity](https://www.ncuindia.edu/) - Gurgaon, Haryana, India _(2018 - 2022)_
+**Bachelor of Technology** _in Computer Science Engineering with Specialization in Cyber Security_
+&emsp; _[The NorthCap Univerity](https://www.ncuindia.edu/) - Gurgaon, Haryana, India (2018 - 2022)_
 
-**All India Senior School Certificate Examination (AISSCE)** STEM<br>
-[Salwan Public School _(CBSE)_](https://salwangurgaon.com) - Gurgaon, Haryana, India _(2016 - 2018)_
+**All India Senior School Certificate Examination (AISSCE)**  - _STEM_
+&emsp; _[Salwan Public School _(CBSE)_](https://salwangurgaon.com) - Gurgaon, Haryana, India _(2016 - 2018)__
 
-**All India Secondary School Certificate Examination (AISSC)** STEM<br>
-[Salwan Public School _(CBSE)_](https://salwangurgaon.com) - Gurgaon, Haryana, India _(2014 - 2016)_
+**All India Secondary School Certificate Examination (AISSC)**  - _STEM_
+&emsp; _[Salwan Public School _(CBSE)_](https://salwangurgaon.com) - Gurgaon, Haryana, India _(2014 - 2016)__
 
 ## 💬 Languages
 
-🇮🇳 **Hindi**:Native<br>
-🇺🇸 **English**: C1
-
-<br><br>
+&nbsp; 🇮🇳 **Hindi**:Native
+&nbsp; 🇺🇸 **English**: C1
