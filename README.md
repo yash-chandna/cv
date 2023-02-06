@@ -2,7 +2,7 @@
 # Yash Chandna
 
 _Cyber Security Analyst based in India 🇮🇳_<br>
-[Email](mailto:yashchandna@gmail.com) / / <a href="https://www.linkedin.com/in/yashchandna/" target="_blank">LinkedIn</a>
+[Email](mailto:yashchandna@gmail.com) / / <a href="https://www.linkedin.com/in/yash-chandna/" target="_blank">LinkedIn</a>
 
 ## 🧑🏻‍💻 Working Experience
 
