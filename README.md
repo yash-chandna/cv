@@ -25,7 +25,7 @@ _Cyber Security Analyst based in India 🇮🇳_<br>
 
 ## 💻 Projects
 
-** <a href="https://tryhackme.com/jr/palletcity2022" target="_blank">Machine on TryHackMe</a>**<br>
+**<a href="https://tryhackme.com/jr/palletcity2022" target="_blank">Machine on TryHackMe</a>**<br>
 &emsp; _Developer_
 
 **<a href="https://sacramentum.ncuindia.edu" target="_blank">Sacramentum CTF</a>**<br>
