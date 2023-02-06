@@ -25,14 +25,14 @@ _Cyber Security Analyst based in India 🇮🇳_<br>
 
 ## 💻 Projects
 
-**[Machine on TryHackMe](https://tryhackme.com/jr/palletcity2022)**<br>
+** <a href="https://tryhackme.com/jr/palletcity2022" target="_blank">Machine on TryHackMe</a>**<br>
 &emsp; _Developer_
 
-**[Sacramentum CTF](https://sacramentum.ncuindia.edu)**<br>
+**<a href="https://sacramentum.ncuindia.edu" target="_blank">Sacramentum CTF</a>**<br>
 &emsp; _Organiser_<br>
 &emsp; _Developer_
 
-**[Cohesion CTF](https://ctftime.org/ctf/589/)**<br>
+**<a href="https://ctftime.org/ctf/589/" target="_blank">Cohesion CTF</a>**<br>
 &emsp; _Developer_
 
 **Cyber Cell** _@ The NorthCap University_<br>
@@ -43,7 +43,7 @@ _Cyber Security Analyst based in India 🇮🇳_<br>
 **3rd Position**<br>
   &emsp; _GirlScript CTF GirlScript Goa, Ponda chapter_
 
-**[4th Position](https://eccouncilorg.kinsta.cloud/wp-content/uploads/2022/11/August-Leaderboard-2022.png)**<br>
+**<a href="https://eccouncilorg.kinsta.cloud/wp-content/uploads/2022/11/August-Leaderboard-2022.png" target="_blank">4th Position</a>**<br>
 &emsp; _Global Ethical Hacking Leaderboard by EC-Council_
 
 **5th Position**<br>
@@ -76,13 +76,13 @@ _Cyber Security Analyst based in India 🇮🇳_<br>
 ## 👩🏼‍🎓 Education
 
 **Bachelor of Technology** _in Computer Science Engineering with Specialization in Cyber Security_<br>
-&emsp; _[The NorthCap Univerity](https://www.ncuindia.edu/) - Gurgaon, Haryana, India (2018 - 2022)_
+&emsp; _<a href="https://www.ncuindia.edu/" target="_blank">The NorthCap Univerity</a> - Gurgaon, Haryana, India (2018 - 2022)_
 
 **All India Senior School Certificate Examination (AISSCE)**  - _CBSE_<br>
-&emsp; _[Salwan Public School](https://salwangurgaon.com) - Gurgaon, Haryana, India (2016 - 2018)_
+&emsp; _<a href="https://salwangurgaon.com" target="_blank">Salwan Public School</a>- Gurgaon, Haryana, India (2016 - 2018)_
 
 **All India Secondary School Certificate Examination (AISSC)**  - _CBSE_<br>
-&emsp; _[Salwan Public School](https://salwangurgaon.com) - Gurgaon, Haryana, India (2014 - 2016)_
+&emsp; _<a href="https://salwangurgaon.com" target="_blank">Salwan Public School</a> - Gurgaon, Haryana, India (2014 - 2016)_
 
 ## 💬 Languages
 
