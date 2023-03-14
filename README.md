@@ -43,7 +43,7 @@ _Cyber Security Analyst based in India 🇮🇳_<br>
 **3rd Position**<br>
   &emsp; _GirlScript CTF GirlScript Goa, Ponda chapter_
 
-**<a href="https://eccouncilorg.kinsta.cloud/wp-content/uploads/2022/11/August-Leaderboard-2022.png" target="_blank">4th Position</a>**<br>
+**4th Position**<br>
 &emsp; _Global Ethical Hacking Leaderboard by EC-Council_
 
 **5th Position**<br>
