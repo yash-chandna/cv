@@ -61,14 +61,18 @@ _Cyber Security Analyst based in India 🇮🇳_<br>
 
 ## 🎖️ Certifications
 
-**Certified Ethical Hacker - Theory**<br>
-&emsp; _EC Council_ 
+**Certified Red Team Professional (CRTP)**<br>
+&emsp; _Altered Security_
+
+**Certified Ethical Hacker - Master**<br>
+&emsp; _EC Council_
 
 **Certified Ethical Hacker - Practical**<br>
 &emsp; _EC Council_
 
-**Certified Ethical Hacker - Master**<br>
-&emsp; _EC Council_
+**Certified Ethical Hacker - Theory**<br>
+&emsp; _EC Council_ 
+
 
 **CCNA**<br>
 &emsp; _Cisco Networking Academy_
