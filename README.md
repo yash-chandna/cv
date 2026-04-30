@@ -3,12 +3,6 @@
 _Cybersecurity professional based in Gurgaon, India_<br>
 [Email](mailto:yashchandna@gmail.com) / [Phone](tel:+919999361455) / <a href="https://www.linkedin.com/in/yash-chandna/" target="_blank">LinkedIn</a> / [Download Resume](Yash_Chandna_Resume.pdf)
 
-## Education
-
-**Bachelor of Technology** _in Computer Science with specialization in Cyber Security_<br>
-&emsp; _<a href="https://www.ncuindia.edu/" target="_blank">The NorthCap University (NCU)</a> - Gurgaon, India (June 2018 - July 2022)_<br>
-&emsp; _CGPA: 8.94/10_
-
 ## Work Experience
 
 **Security Engineer (CSIRT-vSOC)** @ Coinbase _(Remote, October 2024 - Present)_<br>
@@ -30,6 +24,23 @@ _Cybersecurity professional based in Gurgaon, India_<br>
 **Web Pentesting Intern** @ PAC Security LLP _(May 2020 - July 2020)_<br>
 &emsp; _Performed vulnerability assessments on client web applications and reported discovered vulnerabilities with mitigations._<br>
 &emsp; _Utilized tools including Burp Suite, OWASP ZAP, and manual testing techniques to validate application security._
+
+## Certifications and Additional Courses
+
+**SANS SEC598: Security Automation for Offense, Defense, and Cloud**<br>
+&emsp; _SANS_
+
+**Offensive Security Certified Professional (OSCP)**<br>
+&emsp; _OffSec, 2025_
+
+**Certified Red Team Professional (CRTP)**<br>
+&emsp; _Altered Security, 2023_
+
+**Certified Ethical Hacker (Master, Practical and Theory)**<br>
+&emsp; _EC-Council, 2022_
+
+**CCNA: Introduction to Networks**<br>
+&emsp; _Cisco, 2020_
 
 ## Relevant Projects
 
@@ -94,37 +105,8 @@ TCP/IP (4 yrs.), DNS (4 yrs.), HTTP/HTTPS (4 yrs.), VPNs (3 yrs.), Proxy and Int
 **CTF and Challenge Development**<br>
 Web and Network Exploitation (3 yrs.), Custom Machine Design (2 yrs.), Event Infrastructure Setup (2 yrs.).
 
-## Certifications and Additional Courses
+## Education
 
-**Offensive Security Certified Professional (OSCP)**<br>
-&emsp; _OffSec, 2025_
-
-**Certified Red Team Professional (CRTP)**<br>
-&emsp; _Altered Security, 2023_
-
-**Certified Ethical Hacker (Master, Practical and Theory)**<br>
-&emsp; _EC-Council, 2022_
-
-**CCNA: Introduction to Networks**<br>
-&emsp; _Cisco, 2020_
-
-## Achievements
-
-**Security Vulnerability Reporting**<br>
-&emsp; _Reported multiple security vulnerabilities on Government of India platforms to NCIIPC, 2023._
-
-**3rd Position**<br>
-&emsp; _GirlScript CTF, GirlScript Goa, Ponda Chapter, 2022._
-
-**4th Position**<br>
-&emsp; _Global Ethical Hacking Leaderboard by EC-Council, 2022._
-
-**5th Position**<br>
-&emsp; _NCU CTF, Gurgaon, 2022._<br>
-&emsp; _Innova DTU CTF, 2022._
-
-**7th Position**<br>
-&emsp; _The CyberGrabs CTF, 2022._
-
-**10th Position**<br>
-&emsp; _HACON CTF, 2022._
+**Bachelor of Technology** _in Computer Science with specialization in Cyber Security_<br>
+&emsp; _<a href="https://www.ncuindia.edu/" target="_blank">The NorthCap University (NCU)</a> - Gurgaon, India (June 2018 - July 2022)_<br>
+&emsp; _CGPA: 8.94/10_
