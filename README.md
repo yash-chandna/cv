@@ -12,7 +12,7 @@ _Cybersecurity professional based in Gurgaon, India_<br>
 **Analyst (Cyber Defense and IR)** @ KPMG _(Gurgaon, July 2022 - September 2024)_<br>
 &emsp; _Engineered detection automation that reduced false positives by 40%, led threat-hunting initiatives that improved detection efficacy by 60%, and trained 10 junior analysts, enhancing operational consistency by 30%._
 
-**Trainee (Cyber Defense and IR)** @ KPMG _(Remote, January 2022 - September 2022)_<br>
+**Trainee (Cyber Defense and IR)** @ KPMG _(Remote, January 2022 - July 2022)_<br>
 &emsp; _Assisted in red-teaming simulations, phishing campaigns, and incident investigations, contributing to a 35% reduction in organizational risk across engagements._
 
 ## Remote Internships
