@@ -1,38 +1,26 @@
-
 # Yash Chandna
-
 _Cyber Security Analyst based in India 🇮🇳_<br>
 [Email](mailto:yashchandna@gmail.com) / / <a href="https://www.linkedin.com/in/yash-chandna/" target="_blank">LinkedIn</a>
 
 ## 🧑🏻‍💻 Working Experience
 
-**Analyst** @ KPMG _(July 2022 - Present)_<br>
-&emsp; _Part of Digital Trust - Cyber Defense and Incident Response team_
+**Security Engineer, CSIRT** @ Coinbase _(October 2024 – Present)_<br>
+&emsp; _Part of the Cyber Security and Incident Response Team — reduced triage time for multiple threat detections by 45% through automation, and decreased false positives by 40% with advanced threat detection systems_
 
-
-**Trainee** @ KPMG _(Jan 2022 - July 2022)_ <br>
-&emsp;  _Part of Digital Trust - Cyber Defense and Incident Response team_
-
-
-**Intern** @ PAC Security LLP _(June 2021 – July 2021)_<br>
- &emsp; _Worked and created Machines on TryHackMe and HTB to learn more about how a machine works and to find vulnerability in them to gain root access_
-
-**Intern** @ Gurugram Police _(June 2021 – July 2021)_<br>
-&emsp; _Worked as Intern at Gurugram Police Cyber Security Summer Internship 2021_
-
-**Intern** @ PAC Security LLP _(June 2021 – July 2021)_<br>
-&emsp; _Learned the Basics of Web Pentesting and put it to use to find vulnerabilities in Web Applications to protect the Cyber Space._
+**Analyst - Cyber Defense and Incident Response** @ KPMG _(January 2022 – September 2024)_<br>
+&emsp; _Part of Digital Trust - Cyber Defense and Incident Response team_<br>
+&emsp; _Designed security protocols that reduced incident response time by 60%; led a team of 10 analysts in proactive threat hunting; conducted VAPT and managed security awareness programs_
 
 ## 💻 Projects
 
-**<a href="https://tryhackme.com/jr/palletcity2022" target="_blank">Machine on TryHackMe</a>**<br>
-&emsp; _Developer_
+**Cyber Threat Intelligence Platform** _@ KPMG India_ _(April 2023 – Present)_<br>
+&emsp; _Engineered and implemented the CTI Platform at KPMG, integrating MISP and the ELK stack to enhance threat intelligence capabilities and streamline threat detection and analysis_
 
-**<a href="https://sacramentum.ncuindia.edu" target="_blank">Sacramentum CTF</a>**<br>
+**KICon CTF 2022** _@ KPMG India_ _(October 2022)_<br>
+&emsp; _Designed and developed challenges for KPMG India's hiring CTF competition and set up the necessary infrastructure_
+
+**<a href="https://sacramentum.ncuindia.edu" target="_blank">Sacramentum CTF</a>** _(October 2021)_<br>
 &emsp; _Organiser_<br>
-&emsp; _Developer_
-
-**<a href="https://ctftime.org/ctf/589/" target="_blank">Cohesion CTF</a>**<br>
 &emsp; _Developer_
 
 **Cyber Cell** _@ The NorthCap University_<br>
@@ -40,8 +28,14 @@ _Cyber Security Analyst based in India 🇮🇳_<br>
 
 ## 🏆 Awards
 
+**CVE-2024-34463**<br>
+&emsp; _Discovered sensitive information exposure in unencrypted BLE packets_
+
+**Bug Bounty**<br>
+&emsp; _Multiple bugs reported on Govt. of India Websites to NCIIPC_
+
 **3rd Position**<br>
-  &emsp; _GirlScript CTF GirlScript Goa, Ponda chapter_
+&emsp; _GirlScript CTF GirlScript Goa, Ponda chapter_
 
 **4th Position**<br>
 &emsp; _Global Ethical Hacking Leaderboard by EC-Council_
@@ -56,10 +50,13 @@ _Cyber Security Analyst based in India 🇮🇳_<br>
 **10th Position**<br>
 &emsp; _HACON CTF_
 
-**Bug Bounty**<br>
-&emsp; _Multiple bugs reported on Govt. of India Websites_
-
 ## 🎖️ Certifications
+
+**SEC598**<br>
+&emsp; _SANS_
+
+**OffSec Certified Professional (OSCP)**<br>
+&emsp; _OffSec_
 
 **Certified Red Team Professional (CRTP)**<br>
 &emsp; _Altered Security_
@@ -70,25 +67,18 @@ _Cyber Security Analyst based in India 🇮🇳_<br>
 **Certified Ethical Hacker - Practical**<br>
 &emsp; _EC Council_
 
-**Certified Ethical Hacker - Theory**<br>
-&emsp; _EC Council_ 
-
-
-**CCNA**<br>
-&emsp; _Cisco Networking Academy_
-
 ## 👩🏼‍🎓 Education
 
 **Bachelor of Technology** _in Computer Science Engineering with Specialization in Cyber Security_<br>
-&emsp; _<a href="https://www.ncuindia.edu/" target="_blank">The NorthCap Univerity</a> - Gurgaon, Haryana, India (2018 - 2022)_
+&emsp; _<a href="https://www.ncuindia.edu/" target="_blank">The NorthCap University</a> - Gurgaon, Haryana, India (2018 - 2022)_
 
-**All India Senior School Certificate Examination (AISSCE)**  - _CBSE_<br>
-&emsp; _<a href="https://salwangurgaon.com" target="_blank">Salwan Public School</a>- Gurgaon, Haryana, India (2016 - 2018)_
+**All India Senior School Certificate Examination (AISSCE)** - _CBSE_<br>
+&emsp; _<a href="https://salwangurgaon.com" target="_blank">Salwan Public School</a> - Gurgaon, Haryana, India (2016 - 2018)_
 
-**All India Secondary School Certificate Examination (AISSC)**  - _CBSE_<br>
+**All India Secondary School Certificate Examination (AISSC)** - _CBSE_<br>
 &emsp; _<a href="https://salwangurgaon.com" target="_blank">Salwan Public School</a> - Gurgaon, Haryana, India (2014 - 2016)_
 
 ## 💬 Languages
 
-&nbsp; 🇮🇳 **Hindi**:Native<br>
+&nbsp; 🇮🇳 **Hindi**: Native<br>
 &nbsp; 🇺🇸 **English**: C1
