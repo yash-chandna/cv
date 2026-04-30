@@ -1,7 +1,7 @@
 # Yash Chandna
 
 _Cybersecurity professional based in Gurgaon, India_<br>
-[Email](mailto:yashchandna@gmail.com) / [Phone](tel:+919999361455) / <a href="https://www.linkedin.com/in/yash-chandna/" target="_blank">LinkedIn</a>
+[Email](mailto:yashchandna@gmail.com) / [Phone](tel:+919999361455) / <a href="https://www.linkedin.com/in/yash-chandna/" target="_blank">LinkedIn</a> / [Download Resume](Yash_Chandna_Resume.pdf)
 
 ## Education
 
