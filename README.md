@@ -105,6 +105,30 @@ TCP/IP (4 yrs.), DNS (4 yrs.), HTTP/HTTPS (4 yrs.), VPNs (3 yrs.), Proxy and Int
 **CTF and Challenge Development**<br>
 Web and Network Exploitation (3 yrs.), Custom Machine Design (2 yrs.), Event Infrastructure Setup (2 yrs.).
 
+## Achievements
+
+**CVE-2024-34463**<br>
+&emsp; _Discovered sensitive information exposure in unencrypted BLE packets._
+
+**Security Vulnerability Reporting**<br>
+&emsp; _Reported multiple security vulnerabilities on Government of India platforms to NCIIPC, 2023._
+
+**3rd Position**<br>
+&emsp; _GirlScript CTF, GirlScript Goa, Ponda Chapter, 2022._
+
+**4th Position**<br>
+&emsp; _Global Ethical Hacking Leaderboard by EC-Council, 2022._
+
+**5th Position**<br>
+&emsp; _NCU CTF, Gurgaon, 2022._<br>
+&emsp; _Innova DTU CTF, 2022._
+
+**7th Position**<br>
+&emsp; _The CyberGrabs CTF, 2022._
+
+**10th Position**<br>
+&emsp; _HACON CTF, 2022._
+
 ## Education
 
 **Bachelor of Technology** _in Computer Science with specialization in Cyber Security_<br>
